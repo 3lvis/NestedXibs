@@ -21,9 +21,9 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MaA-TX-VQZ">
-                    <rect key="frame" x="24" y="120" width="327" height="218.5"/>
+                    <rect key="frame" x="24" y="120" width="327" height="38"/>
                     <attributedString key="attributedText">
-                        <fragment content="Kron setter sparepengene dine i arbeid. Vi investerer slik oljefondet gjør, til lave gebyrer.">
+                        <fragment content="Hi there!">
                             <attributes>
                                 <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                                 <font key="NSFont" metaFont="system" size="32"/>
@@ -40,7 +40,7 @@
                         <constraint firstAttribute="height" constant="48" id="rup-Jt-v1z"/>
                     </constraints>
                     <fontDescription key="fontDescription" name="PxGrotesk-Light" family="Px Grotesk" pointSize="20"/>
-                    <state key="normal" title="Bli Kunde">
+                    <state key="normal" title="Log in">
                         <color key="titleColor" red="0.13305464389999999" green="0.131775111" blue="0.20221835369999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                     <userDefinedRuntimeAttributes>
@@ -57,7 +57,7 @@
                         <constraint firstAttribute="height" constant="48" id="Z7g-MI-ZAk"/>
                     </constraints>
                     <fontDescription key="fontDescription" name="PxGrotesk-Light" family="Px Grotesk" pointSize="20"/>
-                    <state key="normal" title="Logg inn">
+                    <state key="normal" title="Register">
                         <color key="titleColor" red="0.13305464389999999" green="0.131775111" blue="0.20221835369999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                     <userDefinedRuntimeAttributes>
