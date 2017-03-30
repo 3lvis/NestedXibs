@@ -12,4 +12,4 @@ Using `override open func awakeAfter(using aDecoder: NSCoder) -> Any?`. [Example
 
 ### Attribution
 
-Originally written by [Yang Meyer](http://blog.yangmeyer.de/ios%20dev/2012/07/09/an-update-on-nested-nib-loading.html)
+Originally written by [Yang Meyer](http://blog.yangmeyer.de/ios%20dev/2012/07/09/an-update-on-nested-nib-loading.html).
